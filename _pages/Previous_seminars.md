@@ -5,6 +5,16 @@ Here is a collection of abstracts and slides from all the previous seminars.
 # 2021
 
 ### November
+
+- November 26th - 14h (Salle 2320)
+
+  Speaker : Alan TEIXEIRA NICÁCIO DE MESSIAS
+
+  Title : "About low dimension bessel SDES and associated semilinear PDES."
+
+  Abstract : [here](https://alnssr.github.io/PDF/Abstract_Alan.pdf)
+  
+
 - November 5th - 14h (Salle 2320)
   
   Speaker :  Etienne PEILLON
@@ -13,7 +23,7 @@ Here is a collection of abstracts and slides from all the previous seminars.
   
   Abstract : [here](https://alnssr.github.io/PDF/AbstractEtienne0511.pdf).
   
-  Download the slides [here](https://alnssr.github.io/PDF/presentation_etienne.pdf).
+  Download the slides [here](https://seminarUMA.github.io/PDF/presentation_etienne.pdf).
   
   
 
