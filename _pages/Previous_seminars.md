@@ -13,6 +13,8 @@ Here is a collection of abstracts and slides from all the previous seminars.
   
   Abstract : [here](https://alnssr.github.io/PDF/AbstractEtienne0511.pdf).
   
+  Download the slides [here](https://alnssr.github.io/PDF/presentation_etienne.pdf).
+  
   
 
 ### October
