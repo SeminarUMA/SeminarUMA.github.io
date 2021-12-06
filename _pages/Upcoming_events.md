@@ -1,15 +1,20 @@
 ### Upcoming events
 
-The next seminar will be held on Friday, 26th November 2021- 14h (Salle 2023)
+The next seminar will be held on Friday, 7th January 2022- 14h (Salle 2023)
+
+
+- January 7th -14h (Salle 2320)
+
+ Speaker : Quentin GOEPFERT
+ 
+ Abstract : 
+ 
+- January 28th -14h (Salle 2320)
+
+Speaker : Amond ALLOUKO
+
+Abstract : 
 
 
 
-
-- November 26th - 14h (Salle 2320)
-
-  Speaker : Alan TEIXEIRA NICÁCIO DE MESSIAS
-
-  Title : "About low dimension bessel SDES and associated semilinear PDES."
-
-  Abstract : [here](https://alnssr.github.io/PDF/Abstract_Alan.pdf)
  
