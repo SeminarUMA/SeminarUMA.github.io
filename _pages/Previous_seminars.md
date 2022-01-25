@@ -2,6 +2,19 @@
 
 Here is a collection of abstracts and slides from all the previous seminars.
 
+# 2022
+
+### January
+
+- January 7th -14h (Online)
+
+ Speaker : Quentin GOEPFERT
+ 
+ Title : "A small trip into homogenization and echo imaging."
+
+ Abstract : [here](https://seminarUMA.github.io/PDF/Abstract_seminaire_doctorant.pdf)
+ 
+
 # 2021
 
 ### November
