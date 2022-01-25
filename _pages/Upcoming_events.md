@@ -4,7 +4,7 @@ The next seminar will be held on Friday, 28th January 2022- 14h (Online)
  
 - January 28th -14h (Online)
 
-Speaker : Amond ALLOUK
+Speaker : Amond ALLOUKO
 
 Title : "Approche modale hybride semi-analytique/ éléments finis pour le contrôle non destructif de matériaux composites avec les ondes guidées élastiques"
 
