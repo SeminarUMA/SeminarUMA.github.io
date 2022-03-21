@@ -1,14 +1,20 @@
 ### Upcoming events
 
-The next seminar will be held on Friday, 18th March 2022- 14h (Salle 2329)
+The next seminar will be held on Friday, 8th April 2022- 15h30 (Online)
 
 
- - March 18th -14h (Salle 2329)
+ - April 8th -15h30 (Online)
 
-Speaker : Dorian Lerévérend
+Speaker : Guillaume BONNET
 
-Title : "Inverse Problems Applied to Spatialized Audio"
+Title : "Application de la première réduction de Voronoi à la discrétisation d'équations dégénérées elliptiques, et le cas de l'équation de Monge-Ampère"
 
-Abstract : "The ability to identify the directions of incidence of the sounds we hear is the result of an empirical learning of acoustic phenomena since our earliest childhood. When we listen to a recording with headphones, the identification of sources is no longer possible because the sound arrives directly in our ears and does not undergo the same perturbations as during natural hearing. Immersion in a virtual sound scene requires processing the sound signal to reproduce the diffraction phenomena caused by our body. To do this, it is possible to measure (or calculate) its acoustic response and to build an audio filter, called HRTF (Head Related Transfer Function). Having a powerful solver for the direct problem, we are interested in two associated inverse problems: Given a bounded open domain and its HRTFs, what is the boundary condition? Given HRTFs and a boundary condition, what is the shape of the domain?"
+Abstract : "L'ellipticité dégénérée est une propriété de certaines équations aux dérivées partielles, satisfaite par exemple par l'équation de Hamilton-Jacobi-Bellman en contrôle optimal et par l'équation de Monge-Ampère en transport optimal. Afin de converger vers la solution souhaitée, les méthodes numériques pour les équations dégénérées elliptiques doivent typiquement satisfaire une propriété de monotonie. Je montrerai comment la première réduction de Voronoi, un outil issu de la théorie de la géométrie des réseaux de petite dimension, peut être utilisée pour construire des schémas aux différences finies satisfaisant cette propriété de monotonie. Je présenterai une application à la résolution numérique de l'équation de Monge-Ampère associée à un problème de transport optimal. Une difficulté supplémentaire dans cette application est la discrétisation de la condition aux limites de transport optimal. J'illustrerai la présentation par des résultats numériques obtenus dans le cadre du problème du réfracteur en champ lointain en optique non imageante."
 
 
+
+- April 29th -14h
+
+Speaker : Alesia HERASIMENKA
+
+Title :
