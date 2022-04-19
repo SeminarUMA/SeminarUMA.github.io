@@ -1,20 +1,12 @@
 ### Upcoming events
 
-The next seminar will be held on Friday, 8th April 2022- 15h30 (Online)
+The next seminar will be held on Friday, 29th April 2022- 14h (Online)
 
 
- - April 8th -15h30 (Online)
-
-Speaker : Guillaume BONNET
-
-Title : "Application de la première réduction de Voronoi à la discrétisation d'équations dégénérées elliptiques, et le cas de l'équation de Monge-Ampère"
-
-Abstract : "L'ellipticité dégénérée est une propriété de certaines équations aux dérivées partielles, satisfaite par exemple par l'équation de Hamilton-Jacobi-Bellman en contrôle optimal et par l'équation de Monge-Ampère en transport optimal. Afin de converger vers la solution souhaitée, les méthodes numériques pour les équations dégénérées elliptiques doivent typiquement satisfaire une propriété de monotonie. Je montrerai comment la première réduction de Voronoi, un outil issu de la théorie de la géométrie des réseaux de petite dimension, peut être utilisée pour construire des schémas aux différences finies satisfaisant cette propriété de monotonie. Je présenterai une application à la résolution numérique de l'équation de Monge-Ampère associée à un problème de transport optimal. Une difficulté supplémentaire dans cette application est la discrétisation de la condition aux limites de transport optimal. J'illustrerai la présentation par des résultats numériques obtenus dans le cadre du problème du réfracteur en champ lointain en optique non imageante."
-
-
-
-- April 29th -14h
+- April 29th -14h (Online)
 
 Speaker : Alesia HERASIMENKA
 
-Title :
+Title : "On the controllability of solar sails"
+
+Abstract: "Trajectory design and maintenance of solar sails in orbit about a celestial body can be formulated as control problems with positivity constraints. Specifically, when re-emitted radiation is neglected and the sail is modeled as a flat surface, which are reasonable assumptions for control purposes, radiation pressure is contained in a pointed convex cone of revolution with axis toward the Sun-satellite direction. Therefore, classical approaches to infer controllability like the Lie algebra rank condition do not apply to these problems. The first contribution of the study is a novel necessary condition to conclude controllability of control systems with positivity constraints and a way to verify it by solving an auxiliary convex optimization problem. The practical interest of this condition is the assessment of a minimum requirement on the optical properties of the sail, which may be of use for mission design purposes. The second contribution consists on the determination of the optimal control action aimed at enforcing and maximizing the displacement of the sail toward an arbitrary direction of the phase space after one orbital period. A thorough analysis of the switching function is carried out to deduce an upper bound on the number of bangs between controlled and coasting arcs. The solution of the optimal control problem is achieved by first leveraging on convex programming to obtain an excellent initial guess of the co-state variables, followed by a differential continuation scheme. Hence, the entire methodology does not need any initial guess. The sizing of a sail to compensate an orbital perturbation and the design of a feedback control law will be discussed to illustrate the methodology."
