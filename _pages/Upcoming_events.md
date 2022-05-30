@@ -1,11 +1,11 @@
 ### Upcoming events
 
-The next seminar will be held on Friday, 20th May 2022- 14h (Salle 2329)
+The next seminar will be held on Friday, 10th June 2022- 14h (Salle 2329)
 
-- May 20th -14h (Online)
+- June 10th -14h (Salle 2329)
 
-Speaker : Angèle Niclas
+Speaker: Ngoc Nhi Nguyen
 
-Title : "Approximation de Born et inversion de défauts en plaques élastiques"
+Title: "Fermionic semiclassical Lp estimates"
 
-Abstract: "Pour reconstruire d’éventuelles imperfections dans les guide d’ondes acoustiques, de nombreux travaux utilisent une technique d’approximation, appelée approximation de Born, qui permet de simplifier l’expression des ondes réfléchies par les défauts. Après avoir expliqué comment fonctionne cette approximation et comment elle permet de reconstruire des petits défauts en guide d’ondes acoustiques, je discuterais de sa généralisation aux plaques élastiques. Je pointerais les complications liée au passage du cas acoustique au cas élastique, et proposerais des pistes pour pouvoir finalement inverser des défauts même en plaques élastiques."
+Abstract: "Spectral properties of Schrödinger operators are studied a lot in mathematical physics. They can give the description of trapped fermionic particles. Researches on the spatial concentration of semiclassical Schrödinger operators' eigenfunctions are still carried out, whether in physics or in mathematics. This presentation will focus on the non-interacting case. I will explain why it is relevant to estimate L^p bounds of orthonormal families of eigenfuntions and then  give the main ideas of the proof."
