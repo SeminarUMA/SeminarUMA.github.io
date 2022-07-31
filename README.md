@@ -3,7 +3,7 @@
 The PhD student seminar is a moment where students (PhD students, PostDocs, interns) can present their recent work or topics of intererst in front of the team. We regularly welcome students from other mathematics laboratories . It takes place every three weeks at ENSTA. 
 
 This site is a collection of all the previous and upcoming PhD student seminars organized by the UMA team.
-Next session will be on : **Friday 10th June 2022 at 2:00pm**.
+Next session will the next seminar will take place in September.
 
 - [Previous seminars](_pages/Previous_seminars.md)
 - [Upcoming events](_pages/Upcoming_events.md)
